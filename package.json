@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "preinstall": "rm -rf node_modules",
     "build": "vite build",
     "preview": "vite preview"
   },
