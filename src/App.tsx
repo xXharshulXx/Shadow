@@ -511,7 +511,7 @@ export default function App() {
               SHADOW
             </h1>
             <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-300 sm:text-base">
-              xXharshulXx
+              xXharshulXx | Pareen Lodha
             </p>
           </div>
         </div>
